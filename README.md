@@ -1,6 +1,6 @@
 # x5y8pxNegaTape「ネガテープ」
 
-(　現在作業中！　ここにサムネイル画像　)
+![NegaTape](documentation/x5y8pxNegaTape.png)
 
 ## 概要
 - テキスト入力だけで帯の中に文字が白抜きになる、ネガティブスペース・ピクセルフォントです。
